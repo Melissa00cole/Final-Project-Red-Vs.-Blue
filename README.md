@@ -9,6 +9,8 @@ Then, I interpreted my log data to suggest mitigation measures for each exploit 
 
 
 [Red Team Analysis](https://docs.google.com/document/d/1A9z8tJxyLOTCuSbI_FM3q6QVttXAWL2YuED1qAQgYrM/edit?usp=sharing)
+
+
 [Blue Team Analysis](https://docs.google.com/document/d/1UIL8FehZ_pGL8mTCsA1dHvvD8FmJ8G05alf7FmUpBkM/edit?usp=sharing)
 
 Additional Network project
