@@ -1,6 +1,6 @@
 # Final-Project-Red-Vs.-Blue
 
-*Unit Description*
+**Unit Description**
 
 In this project I worked on a Red Team vs. Blue Team scenario in which I played the role of both pentester and SOC analyst.
 As the Red Team, I attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. 
@@ -15,9 +15,9 @@ Additional Network project
 
 [Network Analysis](https://github.com/Melissa00cole/Final-Project-Red-Vs.-Blue/blob/main/Network%20Analysis)
 
-#Unit Objectives#: 
+**Unit Objectives:** 
 
-project prompted me to apply knowledge of the following skills and tools:
+This project prompted me to apply knowledge of the following skills and tools:
 
 
 -Penetration testing with Kali Linux.
@@ -34,14 +34,14 @@ project prompted me to apply knowledge of the following skills and tools:
 
 
 
-#Lab Environment#
+**Lab Environment
 
 In this unit, I used the Web Vulns lab environment located in Windows Azure Lab Services. as well as the Windows RDP host machine 
 and the Hyper-V Manager to access the nested machines such as ELK.
 
 
 
-#Security+ Domains
+**Security+ Domains
 
 This unit covers portions of the following domains on the Security+ exam:
 
