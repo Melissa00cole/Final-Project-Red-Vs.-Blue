@@ -15,6 +15,8 @@ Additional Network project
 
 [Network Analysis](https://github.com/Melissa00cole/Final-Project-Red-Vs.-Blue/blob/main/Network%20Analysis)
 
+
+
 **Unit Objectives:** 
 
 This project prompted me to apply knowledge of the following skills and tools:
@@ -34,14 +36,14 @@ This project prompted me to apply knowledge of the following skills and tools:
 
 
 
-**Lab Environment
+**Lab Environment**
 
 In this unit, I used the Web Vulns lab environment located in Windows Azure Lab Services. as well as the Windows RDP host machine 
 and the Hyper-V Manager to access the nested machines such as ELK.
 
 
 
-**Security+ Domains
+**Security+ Domains**
 
 This unit covers portions of the following domains on the Security+ exam:
 
